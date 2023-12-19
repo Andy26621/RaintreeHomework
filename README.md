@@ -14,4 +14,4 @@ This repository contains the first assignment. The assignment involves working w
 
 Clone this repository to your local machine.
 
-   git clone https://github.com/your-username/RaintreeHomework.git
+   git clone https://github.com/Andy26621/RaintreeHomework.git
