@@ -1,0 +1,17 @@
+{
+    "name": "andres.zeballos/raintree-homework",
+    "description": "First asignement",
+    "autoload": {
+        "psr-4": {
+            "AndresZeballos\\RaintreeHomework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Me"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    }
+}

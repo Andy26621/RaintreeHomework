@@ -1,6 +1,6 @@
 # RaintreeHomework
 
-## 1st Assignment
+## 1st assignment
 
 ### Basic Configuration
 - **Database Host:** localhost
@@ -8,10 +8,9 @@
 - **MySQL Version:** v8.2.0
 - **PHP Version:** v8.2.13
 
-## Project Details
+## assignment. details
 
 This repository contains the first assignment. The assignment involves working with a MySQL database hosted locally and PHP scripting.
-
-Clone this repository to your local machine.
-
-   git clone https://github.com/Andy26621/RaintreeHomework.git
+To run the scripts just execute the index files for exercise 2a, 2b and 3.
+Additionally you will find 2 versions of each exercise in exercise2 a and b, since I made an inicial basic approach then made a refactor following OOP (Name of non refactored files are "exercice2adirty.php" and "exercice2bdirty.php"). 
+Also tried to look forward over unit testing with phpunit trying to create a basic approach to unit test exercise 2b. (vendor/bin/phpunit tests)
